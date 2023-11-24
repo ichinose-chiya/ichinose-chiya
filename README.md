@@ -1,7 +1,7 @@
 ### Hello from Ichinose Chiya~ 👋
 
-- I'm currently a university student majoring Computer Science in China.
-- I'm currently learning about Binary Security, especially the Reverse Engineering.
+- I'm currently a university student majoring Computer Science in China mainland.
+- I'm currently learning about `Binary Security`, especially the `Reverse Engineering`. Looking forward to learn to `Pwn` in the future...
 - I'm currently an inexperienced individual CTF player, looking forward to joining or creating a team.
 - You can contact with me across the mail: [ichinosechiya@gmail.com](mailto:ichinosechiya@gmail.com)
 
